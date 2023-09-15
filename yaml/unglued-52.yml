@@ -1,0 +1,111 @@
+---
+object: card
+id: a2996a63-9fb6-4455-906d-13f917a8bb29
+oracle_id: 9b02fc38-d155-4bde-b8c3-e3b92975cfc5
+multiverse_ids:
+- 9784
+tcgplayer_id: 905
+cardmarket_id: 11945
+name: Strategy, Schmategy
+lang: en
+released_at: '1998-08-11'
+uri: https://api.scryfall.com/cards/a2996a63-9fb6-4455-906d-13f917a8bb29
+scryfall_uri: https://scryfall.com/card/ugl/52/strategy-schmategy?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/2/a2996a63-9fb6-4455-906d-13f917a8bb29.jpg?1562799134
+  normal: https://cards.scryfall.io/normal/front/a/2/a2996a63-9fb6-4455-906d-13f917a8bb29.jpg?1562799134
+  large: https://cards.scryfall.io/large/front/a/2/a2996a63-9fb6-4455-906d-13f917a8bb29.jpg?1562799134
+  png: https://cards.scryfall.io/png/front/a/2/a2996a63-9fb6-4455-906d-13f917a8bb29.png?1562799134
+  art_crop: https://cards.scryfall.io/art_crop/front/a/2/a2996a63-9fb6-4455-906d-13f917a8bb29.jpg?1562799134
+  border_crop: https://cards.scryfall.io/border_crop/front/a/2/a2996a63-9fb6-4455-906d-13f917a8bb29.jpg?1562799134
+mana_cost: "{1}{R}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: |-
+  Roll a six-sided die. Strategy, Schmategy has the indicated effect.
+  1 — Do nothing.
+  2 — Destroy all artifacts.
+  3 — Destroy all lands.
+  4 — Strategy, Schmategy deals 3 damage to each creature and each player.
+  5 — Each player discards their hand and draws seven cards.
+  6 — Repeat this process two more times.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 3404fc78-6678-4cf4-bd39-4c0be3bb7baf
+set: ugl
+set_name: Unglued
+set_type: funny
+set_uri: https://api.scryfall.com/sets/3404fc78-6678-4cf4-bd39-4c0be3bb7baf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Augl&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ugl?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a2996a63-9fb6-4455-906d-13f917a8bb29/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9b02fc38-d155-4bde-b8c3-e3b92975cfc5&unique=prints
+collector_number: '52'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Gelon
+artist_ids:
+- 63ac31a8-dd1a-4679-9f82-ece89429a084
+illustration_id: 6def1c73-f22a-46e6-b4a4-6245bbe2b440
+border_color: silver
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '1.95'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.22'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=9784
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Strategy%2C+Schmategy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Strategy%2C+Schmategy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Strategy%2C+Schmategy
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/905?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Strategy%2C+Schmategy&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Strategy%2C+Schmategy&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,108 @@
+---
+object: card
+id: a91f28e0-867a-4713-955d-582201af63ae
+oracle_id: dc9da00f-7624-4926-8d75-fd945f1b8a29
+multiverse_ids:
+- 9787
+tcgplayer_id: 885
+cardmarket_id: 11925
+name: Mine, Mine, Mine!
+lang: en
+released_at: '1998-08-11'
+uri: https://api.scryfall.com/cards/a91f28e0-867a-4713-955d-582201af63ae
+scryfall_uri: https://scryfall.com/card/ugl/65/mine-mine-mine!?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/9/a91f28e0-867a-4713-955d-582201af63ae.jpg?1617967901
+  normal: https://cards.scryfall.io/normal/front/a/9/a91f28e0-867a-4713-955d-582201af63ae.jpg?1617967901
+  large: https://cards.scryfall.io/large/front/a/9/a91f28e0-867a-4713-955d-582201af63ae.jpg?1617967901
+  png: https://cards.scryfall.io/png/front/a/9/a91f28e0-867a-4713-955d-582201af63ae.png?1617967901
+  art_crop: https://cards.scryfall.io/art_crop/front/a/9/a91f28e0-867a-4713-955d-582201af63ae.jpg?1617967901
+  border_crop: https://cards.scryfall.io/border_crop/front/a/9/a91f28e0-867a-4713-955d-582201af63ae.jpg?1617967901
+mana_cost: "{4}{G}{G}"
+cmc: 6.0
+type_line: Enchantment
+oracle_text: |-
+  When Mine, Mine, Mine! enters the battlefield, each player puts their library into their hand.
+  Players have no maximum hand size and don't lose the game for drawing from an empty library.
+  Each player can't cast more than one spell each turn.
+  When Mine, Mine, Mine! leaves the battlefield, each player shuffles their hand and graveyard into their library.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 3404fc78-6678-4cf4-bd39-4c0be3bb7baf
+set: ugl
+set_name: Unglued
+set_type: funny
+set_uri: https://api.scryfall.com/sets/3404fc78-6678-4cf4-bd39-4c0be3bb7baf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Augl&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ugl?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a91f28e0-867a-4713-955d-582201af63ae/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adc9da00f-7624-4926-8d75-fd945f1b8a29&unique=prints
+collector_number: '65'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Heather Hudson
+artist_ids:
+- 4441fe52-9e41-40c1-9b74-8510426279ab
+illustration_id: 689710c3-3c84-49b2-abae-4e16b88a8208
+border_color: silver
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '1.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.28'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=9787
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mine%2C+Mine%2C+Mine%21&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mine%2C+Mine%2C+Mine%21&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mine%2C+Mine%2C+Mine%21
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/885?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mine%2C+Mine%2C+Mine%21&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mine%2C+Mine%2C+Mine%21&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

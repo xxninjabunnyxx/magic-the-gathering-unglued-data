@@ -1,0 +1,129 @@
+---
+object: card
+id: 99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9
+oracle_id: e88f6b45-0cde-4fd4-80f0-f252f6fd59fa
+multiverse_ids:
+- 9779
+tcgplayer_id: 872
+cardmarket_id: 11913
+name: Infernal Spawn of Evil
+lang: en
+released_at: '1998-08-11'
+uri: https://api.scryfall.com/cards/99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9
+scryfall_uri: https://scryfall.com/card/ugl/33/infernal-spawn-of-evil?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/9/99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9.jpg?1562799128
+  normal: https://cards.scryfall.io/normal/front/9/9/99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9.jpg?1562799128
+  large: https://cards.scryfall.io/large/front/9/9/99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9.jpg?1562799128
+  png: https://cards.scryfall.io/png/front/9/9/99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9.png?1562799128
+  art_crop: https://cards.scryfall.io/art_crop/front/9/9/99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9.jpg?1562799128
+  border_crop: https://cards.scryfall.io/border_crop/front/9/9/99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9.jpg?1562799128
+mana_cost: "{6}{B}{B}{B}"
+cmc: 9.0
+type_line: Creature — Beast
+oracle_text: |-
+  Flying, first strike
+  {1}{B}, Reveal Infernal Spawn of Evil from your hand, Say "It's coming!": Infernal Spawn of Evil deals 1 damage to target opponent or planeswalker. Activate only during your upkeep and only once each turn.
+power: '7'
+toughness: '7'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+- First strike
+all_parts:
+- object: related_card
+  id: e82211fe-0830-4472-b388-f5880be1a84e
+  component: combo_piece
+  name: Infernal Spawn of Infernal Spawn of Evil
+  type_line: Creature — Demon Child
+  uri: https://api.scryfall.com/cards/e82211fe-0830-4472-b388-f5880be1a84e
+- object: related_card
+  id: 217f01bf-e792-4704-ac84-b9849d548bd1
+  component: combo_piece
+  name: Infernius Spawnington III, Esq.
+  type_line: Creature — Demon Beast Grandchild
+  uri: https://api.scryfall.com/cards/217f01bf-e792-4704-ac84-b9849d548bd1
+- object: related_card
+  id: 99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9
+  component: combo_piece
+  name: Infernal Spawn of Evil
+  type_line: Creature — Beast
+  uri: https://api.scryfall.com/cards/99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 3404fc78-6678-4cf4-bd39-4c0be3bb7baf
+set: ugl
+set_name: Unglued
+set_type: funny
+set_uri: https://api.scryfall.com/sets/3404fc78-6678-4cf4-bd39-4c0be3bb7baf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Augl&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ugl?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/99711b5b-3cb2-4d57-ac9a-f43cc86a7ca9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae88f6b45-0cde-4fd4-80f0-f252f6fd59fa&unique=prints
+collector_number: '33'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ron Spencer
+artist_ids:
+- dab52c11-0564-4207-a4a1-c1735c946a65
+illustration_id: 22da634f-d647-458c-87c8-689dba269284
+border_color: silver
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '1.54'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.90'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=9779
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Infernal+Spawn+of+Evil&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Infernal+Spawn+of+Evil&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Infernal+Spawn+of+Evil
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/872?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Infernal+Spawn+of+Evil&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Infernal+Spawn+of+Evil&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

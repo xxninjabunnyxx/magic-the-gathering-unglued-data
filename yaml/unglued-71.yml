@@ -1,0 +1,106 @@
+---
+object: card
+id: 21943fe2-3eeb-441a-a3ae-99866c6e76bd
+oracle_id: b201b2ce-f939-4a2d-ad59-181c64f5a562
+multiverse_ids:
+- 9730
+tcgplayer_id: 831
+cardmarket_id: 11871
+name: Bronze Calendar
+lang: en
+released_at: '1998-08-11'
+uri: https://api.scryfall.com/cards/21943fe2-3eeb-441a-a3ae-99866c6e76bd
+scryfall_uri: https://scryfall.com/card/ugl/71/bronze-calendar?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/1/21943fe2-3eeb-441a-a3ae-99866c6e76bd.jpg?1562799075
+  normal: https://cards.scryfall.io/normal/front/2/1/21943fe2-3eeb-441a-a3ae-99866c6e76bd.jpg?1562799075
+  large: https://cards.scryfall.io/large/front/2/1/21943fe2-3eeb-441a-a3ae-99866c6e76bd.jpg?1562799075
+  png: https://cards.scryfall.io/png/front/2/1/21943fe2-3eeb-441a-a3ae-99866c6e76bd.png?1562799075
+  art_crop: https://cards.scryfall.io/art_crop/front/2/1/21943fe2-3eeb-441a-a3ae-99866c6e76bd.jpg?1562799075
+  border_crop: https://cards.scryfall.io/border_crop/front/2/1/21943fe2-3eeb-441a-a3ae-99866c6e76bd.jpg?1562799075
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact
+oracle_text: |-
+  Spells you cast cost {1} less to cast.
+  You must speak in a voice other than your normal voice.
+  When you speak in your normal voice, sacrifice Bronze Calendar.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 3404fc78-6678-4cf4-bd39-4c0be3bb7baf
+set: ugl
+set_name: Unglued
+set_type: funny
+set_uri: https://api.scryfall.com/sets/3404fc78-6678-4cf4-bd39-4c0be3bb7baf
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Augl&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ugl?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/21943fe2-3eeb-441a-a3ae-99866c6e76bd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab201b2ce-f939-4a2d-ad59-181c64f5a562&unique=prints
+collector_number: '71'
+digital: false
+rarity: uncommon
+flavor_text: Every page holds a month, every date a numeral.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Melissa A. Benson
+artist_ids:
+- 9ade7727-1436-4828-9a1d-487c3d2ad1d9
+illustration_id: 353a5d06-60cd-4401-b929-204b2b85e9f7
+border_color: silver
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+prices:
+  usd: '0.26'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.40'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=9730
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bronze+Calendar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bronze+Calendar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bronze+Calendar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/831?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bronze+Calendar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bronze+Calendar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
